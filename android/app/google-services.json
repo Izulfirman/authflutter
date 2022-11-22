@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668090261792",
+    "project_id": "tsa-firebase-b9076",
+    "storage_bucket": "tsa-firebase-b9076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668090261792:android:f760bfcb1b54a1a7217745",
+        "android_client_info": {
+          "package_name": "com.example.tugasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668090261792-kapm6ctk7jgp3g5089ufgdunong6lds8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglOxZEH-0pyn9lXYqqSg7TA-mMkcCDnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668090261792-kapm6ctk7jgp3g5089ufgdunong6lds8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
